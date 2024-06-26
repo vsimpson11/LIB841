@@ -1,0 +1,64 @@
+body{
+	background-color:pink;
+	}
+
+h1{
+	color: white;
+	text-align: center;
+	font-size:24px;
+}
+h2{
+	color:white;
+	text-align:center;
+	font-size:24px;
+
+}
+h3{
+	color:white;
+	text-align:center;
+	font-size:24px;
+}
+p {
+	font-family:helvetica;
+	font-size:24px;
+	
+	line-height: 1.6em;
+	
+}
+UL {
+	font-family:helvetica;
+	font-size:24px;
+	
+	line-height: 1.6em;
+	padding:10px;
+	
+}
+nav {
+        background-color: #333;
+    }
+    nav table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    nav td {
+        width: 25%; /* Ensure each cell takes an equal share of the table width */
+        text-align: center;
+        padding: 14px 0; /* Adjust padding to make clickable area larger */
+    }
+    nav a {
+        display: block;
+        color: white;
+        text-decoration: none;
+        padding: 14px 16px;
+    }
+    nav a:hover {
+        background-color: #111;
+    }
+	table, th, td{
+		border:1px solid:#000;
+		border-collapse: collapse;
+		font-family:helvetica;
+		font-size:20px;
+		line-height:1.6em;
+	}
+	
